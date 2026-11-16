@@ -1,4 +1,3 @@
-""" 
 print ('Olá, mundo!')
 
 print (48 / 4)
@@ -9,26 +8,19 @@ peso = input('Qual a seu peso?')
 
 print (nome, idade, peso) 
 
-"""
-
 
 # -------------- DESAFIO 01 --------------------
-"""
+
 nomeUsuario = input('Digite seu nome: ')
 print('Seja bem vindo(a) ao nosso programa,', nomeUsuario + '!')
 
-"""
-
 # -------------- DESAFIO 02 --------------------
-"""
 
 diaNasc = input('Digite o dia que você nasceu: ')
 mesNasc = input('Digite o mês que você nasceu: ')
 anoNasc = input('Digite o ano em que você nasceu: ')
 
 print('Você nasceu dia', diaNasc, 'do mês de', mesNasc, 'do ano de', anoNasc+'?')
-
-"""
 
 # ----------------- DESAFIO 03 -----------------
 
